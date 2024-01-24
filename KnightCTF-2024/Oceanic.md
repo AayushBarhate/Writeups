@@ -1,4 +1,3 @@
-```plaintext
 # Oceanic CTF Writeup
 
 ## Clue.jpg Metadata Exploration
