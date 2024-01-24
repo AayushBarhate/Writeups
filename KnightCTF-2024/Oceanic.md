@@ -4,7 +4,7 @@
 
 Utilizing `exiftool` on the `clue.jpg` file revealed encoded information in the comment. Employing `dcode.org`'s cipher identifier, I identified the encryption as base58. Decoding the string yielded: "theoceanisactuallyreallydeeeepp."
 
-![metadata](/images/oceanic.png)
+![metadata](<images/oceanic.png>)
 
 ## Delving into the Audio File
 
@@ -14,5 +14,5 @@ Inspecting the provided audio file, initially suspected to contain Morse code, l
 
 Performing a hex dump on the `flag.png` file and searching for "KCTF" exposed the flag: `KCTF{mul71_l4y3r3d_57360_ec4dacb5}`.
 
-![flag](/images/oceanic_hex.png)
+![flag](<images/oceanic_hex.png>)
 
